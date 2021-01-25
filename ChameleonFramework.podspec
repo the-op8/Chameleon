@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author       		= "Vicc Alexander"
   s.social_media_url   	= "http://twitter.com/ViccsMind"
   s.platform     		= :ios
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
   s.source       		= { :git => "https://github.com/ViccAlexander/Chameleon.git", 
                      		:tag => s.version.to_s }
 
